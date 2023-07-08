@@ -40,7 +40,7 @@ def extract_frames(video_path, output_folder, num_frames):
     print("Frames saved in folder at {} ...".format(output_folder))
 
 # Path to the main folder containing videos and subfolders
-videos_folder = "C://Users/akash/Videos/1201"
+videos_folder = "C://Users/akash/Videos/1207"
 
 # Number of frames to extract
 num_frames = 10
